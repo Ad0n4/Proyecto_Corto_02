@@ -1,0 +1,10 @@
+
+module sumador64 (
+    input  logic [63:0] a,
+    input  logic [63:0] b,
+    output logic [63:0] suma
+);
+
+    assign suma = a + b;
+
+endmodule

@@ -1,0 +1,17 @@
+
+# Archivos generados por Icarus Verilog
+*.vvp
+
+# Archivos de simulacion
+*.vcd
+*.fst
+*.lxt
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos temporales del sistema
+Thumbs.db
+.DS_Store
